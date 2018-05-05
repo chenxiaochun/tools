@@ -7,3 +7,7 @@ gcoord( geographic coordinates)是一个处理地理坐标系的js库，用来�
 * [img2ascii](http://www.atool.org/img2ascii.php)
 
 在线图片转化成ASCII字符串工具 - aTool在线工具
+
+* [bigjpg](http://bigjpg.com/)
+
+AI人工智能图片放大
